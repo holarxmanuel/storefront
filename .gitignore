@@ -1,0 +1,8 @@
+.env
+
+*lock
+
+
+
+Pipfile
+Pipfile.lock
